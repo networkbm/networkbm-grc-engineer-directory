@@ -44,7 +44,7 @@ available_for:
 projects:
   - name: Security Control Coverage Analyzer (AWS)
     url: https://github.com/FideleDonadje/security-control-coverage-analyzer
-    description: A lightweight security posture coverage analyzer that checks whether foundational AWS security controls are enabled and produces,a machine-readable JSON report, a human-readable Markdown report and account-specific results.
+    description: A lightweight security posture coverage analyzer that checks whether foundational AWS security controls are enabled and produces a machine-readable JSON report, a human-readable Markdown report and account-specific results.
 ---
 
 ## About Me
